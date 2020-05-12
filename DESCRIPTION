@@ -26,6 +26,8 @@ Authors@R: c(person("Michal", "Burdukiewicz",
            comment = c(ORCID = "0000-0001-5467-018X"),
            role = c("ctb")))
 Description: This package is used only as a model storage for the AmpGram package.
+Depends:
+    R (>= 3.5.0)
 License: GPL-3
 URL: https://github.com/michbur/AmpGramModel
 BugReports: https://github.com/michbur/AmpGramModel/issues
